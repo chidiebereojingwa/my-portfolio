@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/chidiebereojingwa/my-portfolio.git/static/css/main.bf538fe7.css",
-    "main.js": "/chidiebereojingwa/my-portfolio.git/static/js/main.dbb81e21.js",
-    "static/media/HeroImage.jpg": "/chidiebereojingwa/my-portfolio.git/static/media/HeroImage.216d4b7b455f60346dd2.jpg",
-    "index.html": "/chidiebereojingwa/my-portfolio.git/index.html",
-    "main.bf538fe7.css.map": "/chidiebereojingwa/my-portfolio.git/static/css/main.bf538fe7.css.map",
-    "main.dbb81e21.js.map": "/chidiebereojingwa/my-portfolio.git/static/js/main.dbb81e21.js.map"
+    "main.css": "/chidiebereojingwa/my-portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/chidiebereojingwa/my-portfolio/static/js/main.89ff4daa.js",
+    "static/media/HeroImage.jpg": "/chidiebereojingwa/my-portfolio/static/media/HeroImage.216d4b7b455f60346dd2.jpg",
+    "index.html": "/chidiebereojingwa/my-portfolio/index.html",
+    "main.bf538fe7.css.map": "/chidiebereojingwa/my-portfolio/static/css/main.bf538fe7.css.map",
+    "main.89ff4daa.js.map": "/chidiebereojingwa/my-portfolio/static/js/main.89ff4daa.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.dbb81e21.js"
+    "static/js/main.89ff4daa.js"
   ]
 }
