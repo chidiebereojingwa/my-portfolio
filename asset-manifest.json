@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/chidiebereojingwa/my-portfolio.git/static/css/main.bf538fe7.css",
+    "main.js": "/chidiebereojingwa/my-portfolio.git/static/js/main.dbb81e21.js",
+    "static/media/HeroImage.jpg": "/chidiebereojingwa/my-portfolio.git/static/media/HeroImage.216d4b7b455f60346dd2.jpg",
+    "index.html": "/chidiebereojingwa/my-portfolio.git/index.html",
+    "main.bf538fe7.css.map": "/chidiebereojingwa/my-portfolio.git/static/css/main.bf538fe7.css.map",
+    "main.dbb81e21.js.map": "/chidiebereojingwa/my-portfolio.git/static/js/main.dbb81e21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.dbb81e21.js"
+  ]
+}
