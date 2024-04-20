@@ -10,7 +10,7 @@ export const Bio = {
     "I am an enthusiastic and adaptable individual, continuously seeking out fresh opportunities for growth. Driven by a fervent desire to expand my knowledge, I am committed to producing top-notch outcomes. Fueled by optimism and a mindset geared towards progress, I am poised to add significant value and attain remarkable accomplishments.",
   github: "https://github.com/chidiebereojingwa",
   resume:
-    "https://drive.google.com/file/d/1_2IKioAZIasdYFmN-wOztiDPS7DD1Rva/view?usp=sharing",
+    "https://drive.google.com/file/d/1oaZrYO5zlP6il6UlJbgjJu1bXPjdKp3A/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/chidiebereojingwa/",
   twitter: "https://twitter.com/chidiojingwa",
   insta: "https://www.instagram.com/ojingwachidiebere/",
