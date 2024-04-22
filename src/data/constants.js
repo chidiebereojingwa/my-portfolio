@@ -375,6 +375,19 @@ export const projects = [
     github: "https://github.com/chidiebereojingwa/github_userSearch",
     webapp: "https://voluble-chaja-930331.netlify.app/gists",
   },
+  {
+    id: 5,
+    title: "NOTE BOOK APP",
+    date: "Jul 2021",
+    description:
+      "Note App where you can create and delete notes, you can also change the color of your notes.",
+    image:
+      "https://github.com/chidiebereojingwa/NoteApp/raw/master/app_screenshot.png",
+    tags: ["React Js", "Firebase", "Firestore", "Node JS"],
+    category: "web app",
+    github: "https://github.com/chidiebereojingwa/NoteApp/tree/master",
+    webapp: "https://react-typescript-noteapp.netlify.app/",
+  },
   // {
   //   id: 5,
   //   title: "Todo Web App",
