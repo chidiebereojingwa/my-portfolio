@@ -10,7 +10,7 @@ export const Bio = {
     "I am an enthusiastic and adaptable individual, continuously seeking out fresh opportunities for growth. Driven by a fervent desire to expand my knowledge, I am committed to producing top-notch outcomes. Fueled by optimism and a mindset geared towards progress, I am poised to add significant value and attain remarkable accomplishments.",
   github: "https://github.com/chidiebereojingwa",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://drive.google.com/file/d/18SxfgEeL5Ig5pwY8fLj12AVvx35vM5Ad/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/chidiebereojingwa/",
   twitter: "https://twitter.com/chidiojingwa",
   insta: "https://www.instagram.com/ojingwachidiebere/",
@@ -301,6 +301,19 @@ export const projects = [
         github: "https://github.com/ojingwaDaniel",
       },
     ],
+  },
+  {
+    id: 5,
+    title: "Note taking App",
+    date: "Jun 2021",
+    description:
+      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
+    image:
+      "https://github.com/chidiebereojingwa/NoteApp/raw/master/app_screenshot.png",
+    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
+    category: "web app",
+    github: "https://github.com/chidiebereojingwa/NoteApp/tree/master",
+    webapp: "https://react-typescript-noteapp.netlify.app/",
   },
   // {
   //   id: 1,
