@@ -4,11 +4,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 ### Weblink: [Live Website](https://github.com/chidiebereojingwa/my-portfolio)
 ## Some Images:
 <img width="450px;" src="../Portfolio/src/images/homepage.jpg"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/6ad7b63b-4c51-4c98-bd21-847e5d48d559"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/10647898-7154-434c-84e6-edee6679ca92"/>
+<img width="450px;" src="https://private-user-images.githubusercontent.com/64485885/241579039-92f2622f-0a7f-444a-8f60-6edeae7508dd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY0ODExNDUsIm5iZiI6MTcyNjQ4MDg0NSwicGF0aCI6Ii82NDQ4NTg4NS8yNDE1NzkwMzktOTJmMjYyMmYtMGE3Zi00NDRhLThmNjAtNmVkZWFlNzUwOGRkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTE2VDEwMDA0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUzYWYyYTNkNjI0YjBiNGZhNWY0NGM5Mzk4NTdkZmNlMGY2ZWI3Nzc2ZmQ3NjQyODE2NmViMTNmZTQzYzYyZmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.eB2B2ZsH0REJnNqcgs9aw4wrURbC61Y1fq6DkyYIRcU"/>
 
 
 ## Table of Contents
@@ -41,8 +37,8 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 ## Installation
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/rishavchanda/rishav-chanda-portfolio.git`
-2. Navigate to the project directory: `cd rishav-chanda-portfolio`
+1. Clone the repository: `https://github.com/chidiebereojingwa/my-portfolio`
+2. Navigate to the project directory: `cd chidiebereojingwa-my-portfolio`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
